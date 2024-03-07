@@ -8,7 +8,7 @@ This exam will primarily explore your understanding of the relationship between 
 
 Your task is to take the existing HTML page and apply a set of styles to it. You will be re-creating the following page:
 
-![Mockup of Webpage](assets/mockup.png)
+![Mockup of Webpage](assets/.png)
 
 Here are the specific style changes you must make.
 

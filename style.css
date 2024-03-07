@@ -1,1 +1,55 @@
-/* Your Code Goes Here */
+* {
+  background-color: #fcddbc
+}
+
+img {
+  border-color: grey;
+  border-style: solid;
+  margin: 20px;
+  float: left;
+}
+
+body {
+    background-color: #fcddbc;
+  }
+  
+  h1 {
+    padding:30px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    background-color: #69585f;
+    font-variant: small-caps;
+  }
+  h2 {
+    font-variant: small-caps;
+  }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+ <h1> Background colors
+
+ #myHeader {
+    background-color:#fcddbc;
+    color: black; 
+    padding: 40px;
+    text-align: center;
+  }
+
+a {color: #69585F;
+  text-decoration:none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
